@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Pual97
 
-<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/38428995/201601432-98dc4907-0724-4228-93b9-7938acc50fc1.gif">
+<img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/38428995/201601432-98dc4907-0724-4228-93b9-7938acc50fc1.gif">
 
 
 
